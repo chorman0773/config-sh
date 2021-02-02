@@ -803,6 +803,7 @@ wasm64-wasi					wasm64-unknown-wasi
 we32k						we32k-att-sysv
 x64						x86_64-pc-none
 x64-linux					x86_64-pc-linux-gnu
+x64-phantom					x86_64-pc-phantom-user
 x86						x86-unknown-none
 x86_64-cygwin					x86_64-pc-cygwin
 x86_64-dicos					x86_64-pc-dicos
