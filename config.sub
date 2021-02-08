@@ -137,7 +137,7 @@ case $1 in
 			| netbsd*-eabi* | kopensolaris*-gnu* | cloudabi*-eabi* \
 			| storm-chaos* | os2-emx* | rtmk-nova* \
 			| phantom-kernel* | phantom-user* \
-			| snes*-elf* | snes*-xo65* | nes*-xo65*)
+			| snes*-elf* | snes*-xo65* | nes*-xo65* | snes*-coff*)
 				basic_machine=$field1
 				basic_os=$maybe_os
 				;;
