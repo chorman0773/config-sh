@@ -804,6 +804,7 @@ wasm64-wasi					wasm64-unknown-wasi
 wdc65c816-snes					w65-wdc-snes-elf
 wc65c816-snes-xo65					w65-wdc-snes-xo65
 65c816-snesdev-elf					w65-wdc-snesdev-elf
+wc65816-snes-coff					w65-wdc-snes-coff
 we32k						we32k-att-sysv
 x64						x86_64-pc-none
 x64-linux					x86_64-pc-linux-gnu

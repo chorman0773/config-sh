@@ -1771,7 +1771,7 @@ case $kernel-$os in
 		;;
 	os2-emx)
 		;;
-	snes*-elf* | snes*-xo65* | nes*-xo65* )
+	snes*-elf* | snes*-xo65* | nes*-xo65* | snes*-coff* )
 		;; 
 
 	*-eabi* | *-gnueabi*)
